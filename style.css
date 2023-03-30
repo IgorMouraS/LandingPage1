@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    color: white;
+    font-family: 'Quicksand', sans-serif;
+}
+
+body{
+    background-color: black;
+}
+
+.etiqueta{
+    background-color: greenyellow;
+    width: 50px;
+    height: 100px;
+    margin-left: 100px;
+    position: relative;
+}
+
+.header{
+    margin-top: -10px;
+    text-align: center;
+    position: relative;
+}
+
+.texto{
+    text-align: center;
+    margin-top: 50px;
+    font-size: 50px;
+}
+
+.texto2 p{
+    margin-top: 30px;
+    color: greenyellow;
+    text-align: center;
+    font-size: 28px;
+    letter-spacing: 3px;
+}
+
+img{
+    width: 99vw;
+    max-height: 52vh;
+
+}
